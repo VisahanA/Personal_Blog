@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6f50316-75e6-4a39-84c5-6f77b37c6f5a" name="Default Changelist" comment="">
+    <list default="true" id="6a008dc0-f6b7-4dc3-853a-c3672d447ebd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jotpadprivacypolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/jotpadprivacypolicy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termsandcondition.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/termsandcondition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/disc.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/disc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1gGjbe9by211l6j0vG9coI6Z7iN" />
+  <component name="ProjectId" id="1hrXogkta2ocM6hJFDQn5b84pKC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,39 +30,51 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\visah\Documents\GitHub\Personal_Blog\public" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\visah\Desktop\Personal_Blog\public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6f50316-75e6-4a39-84c5-6f77b37c6f5a" name="Default Changelist" comment="" />
-      <created>1597747896483</created>
+      <changelist id="6a008dc0-f6b7-4dc3-853a-c3672d447ebd" name="Default Changelist" comment="" />
+      <created>1600770362298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597747896483</updated>
-      <workItem from="1597747898134" duration="2740000" />
-      <workItem from="1597989899731" duration="730000" />
+      <updated>1600770362298</updated>
+      <workItem from="1600770363756" duration="14000" />
+      <workItem from="1600974566502" duration="5280000" />
+      <workItem from="1601039486751" duration="640000" />
+      <workItem from="1601104554286" duration="674000" />
+      <workItem from="1601216827500" duration="86000" />
+      <workItem from="1601277049616" duration="242000" />
+      <workItem from="1601461600688" duration="1088000" />
+      <workItem from="1601462957156" duration="500000" />
+      <workItem from="1602402260040" duration="4727000" />
+      <workItem from="1605078286848" duration="5007000" />
+      <workItem from="1608293089648" duration="112000" />
+      <workItem from="1611302987935" duration="723000" />
+      <workItem from="1611338142045" duration="2034000" />
+      <workItem from="1612197844276" duration="143000" />
+      <workItem from="1613828900475" duration="6000" />
+      <workItem from="1619942164261" duration="22000" />
+      <workItem from="1622876337889" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619942183604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619942183604" />
   </component>
 </project>

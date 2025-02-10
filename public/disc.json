@@ -1,102 +1,295 @@
 [
-  {
-    "id": 1,
-    "Question": "What sort of colour do u prefer?",
-    "Options": [
-      "bold colors",
-      "a mix of all colors",
-      "i am comfortable only with two to three color",
-      "lover of grey, white, beige"
-    ]
-  },
-  {
-    "id": 2,
-    "Question": "Consider you are in a new environment, would you like to initiate a talk to your neighbor?",
-    "Options": [
-      "I will talk if needed",
-      "i would love to initate conversation",
-      "i will wait for the other person to start",
-      "i dont like to talk to strangers"
-    ]
-  },
-  {
-    "id": 3,
-    "Question": "What is the first thing you do when you have a problem?",
-    "Options": [
-      "seeksolution",
-      "call a friend",
-      "get in your comfortable zone and think",
-      "start analysing it"
-    ]
-  },
-  {
-    "id": 4,
-    "Question": "What would you do when you are assigned a task as a team?",
-    "Options": [
-      "take leadership",
-      "have fun with the team",
-      "listen to process and do work",
-      "think about why you should work that"
-    ]
-  },
-  {
-    "id": 5,
-    "Question": "How do you feel when someone tells something about you?",
-    "Options": [
-      "try to develop from that",
-      "take it too much into heart",
-      "listen and never care",
-      "prove them wrong"
-    ]
-  },
-  {
-    "id": 6,
-    "Question": "How would you like to be in your work environment",
-    "Options": [
-      " To help co workers and finsih task peacefully",
-      "I wish others admire me",
-      "complete one task at a time",
-      "prove them wrong"
-    ]
-  },
-  {
-    "id": 7,
-    "Question": "How do you  see yourself the most?",
-    "Options": [
-      "Goal-oriented challenges",
-      "Firendly (or) emotional",
-      "co-operative(or)loyal",
-      "logical(or)perfectionist"
-    ]
-  },
-  {
-    "id": 8,
-    "Question": "How do you feel when you are in an environment to change?",
-    "Options": [
-      "Think how it helps with your goals",
-      "easily adaptable to the change",
-      "Not too comfortable to change",
-      "thinkinig about its results"
-    ]
-  },
-  {
-    "id": 9,
-    "Question": "What is the first thing you think when you have a function to attend?",
-    "Options": [
-      "plan about dress,gifts",
-      "think who will join the function",
-      "thnk about how the function will happen",
-      "fixing a time and start planning to work"
-    ]
-  },
-  {
-    "id": 10,
-    "Question": "When you talk to a person,On what basis you talk to them?",
-    "Options": [
-      "What should i do?",
-      "Just enjoy the time with the person",
-      "Ask how could you help them",
-      "Think why you should talk to them"
-    ]
-  }
+    {
+        "id": 1,
+        "Question": "What sort of colour do u prefer?",
+        "Options": [
+            "Bold colors",
+            "A mix of all colors",
+            "I am comfortable only with two to three color",
+            "Lover of grey, white, beige"
+        ]
+    },
+    {
+        "id": 2,
+        "Question": "Consider you are in a new environment, would you like to initiate a talk to your neighbor?",
+        "Options": [
+            "I will talk if needed",
+            "I would love to initate conversation",
+            "I will wait for the other person to start",
+            "I dont like to talk to strangers"
+        ]
+    },
+    {
+        "id": 3,
+        "Question": "What is the first thing you do when you have a problem?",
+        "Options": [
+            "seeksolution",
+            "call a friend",
+            "get in your comfortable zone and think",
+            "start analysing it"
+        ]
+    },
+    {
+        "id": 4,
+        "Question": "What would you do when you are assigned a task as a team?",
+        "Options": [
+            "Take leadership",
+            "Have fun with the team",
+            "Listen to process and do work",
+            "Think about why you should work that"
+        ]
+    },
+    {
+        "id": 5,
+        "Question": "How do you feel when someone tells something about you?",
+        "Options": [
+            "Try to develop from that",
+            "Take it too much into heart",
+            "Listen and never care",
+            "Prove them wrong"
+        ]
+    },
+    {
+        "id": 6,
+        "Question": "How would you like to be in your work environment",
+        "Options": [
+            "To help co workers and finish task peacefully",
+            "I wish others admire me",
+            "Complete one task at a time",
+            "Prove them wrong"
+        ]
+    },
+    {
+        "id": 7,
+        "Question": "How do you  see yourself the most?",
+        "Options": [
+            "Goal-oriented challenges",
+            "Friendly (or) emotional",
+            "Co-operative(or)loyal",
+            "Logical(or)perfectionist"
+        ]
+    },
+    {
+        "id": 8,
+        "Question": "How do you feel when you are in an environment to change?",
+        "Options": [
+            "Think how it helps with your goals",
+            "Easily adaptable to the change",
+            "Not too comfortable to change",
+            "Thinking about its results"
+        ]
+    },
+    {
+        "id": 9,
+        "Question": "What is the first thing you think when you have a function to attend?",
+        "Options": [
+            "plan about dress,gifts",
+            "think who will join the function",
+            "think about how the function will happen",
+            "fixing a time and start planning to work"
+        ]
+    },
+    {
+        "id": 10,
+        "Question": "When you talk to a person,On what basis you talk to them?",
+        "Options": [
+            "What should i do?",
+            "Just enjoy the time with the person",
+            "Ask how could you help them",
+            "Think why you should talk to them"
+        ]
+    },
+    {
+        "id": 11,
+        "Question": "How do you prepare for your exams or project?",
+        "Options": [
+            "Start preparing before a month",
+            "Do it at the last moment",
+            "Start a week before",
+            "Planing and analysing before a month"
+        ]
+    },
+    {
+        "id": 12,
+        "Question": "How do you react when somebody has hurt you?",
+        "Options": [
+            "Shout at them",
+            "Start advising them",
+            "Just move away from them",
+            "Note all they have done and use it to scold them at the correct time."
+        ]
+    },
+    {
+        "id": 13,
+        "Question": "What do you feel about yourself?",
+        "Options": [
+            "Hard outside, soft inside",
+            "Soft outside, Soft inside",
+            "Soft outside, hard inside",
+            "Hard Outside, hard inside"
+        ]
+    },
+    {
+        "id": 14,
+        "Question": "What is your greatest achievement?",
+        "Options": [
+            "Have completed many goals",
+            "Have earned good friends and experiences.",
+            "Made everyone like or love you",
+            "Have scored good marks or reached targets on time"
+        ]
+    },
+    {
+        "id": 15,
+        "Question": "What do you do when you are waiting on a line?",
+        "Options": [
+            "look around and listen what people are upto",
+            "Start talking and having fun",
+            "Look into your phone",
+            "Research on what should be done at the destination"
+        ]
+    },
+    {
+        "id": 16,
+        "Question": "What do you do when you watch a movie?",
+        "Options": [
+            "Look on the theme or story line of the movie",
+            "Get too much emotional in sentimental scenes.",
+            "Just feel involved and watch movie at comfortable pace",
+            "Research on the date, place, and loop holes of the movie"
+        ]
+    },
+    {
+        "id": 17,
+        "Question": "What Do You Think You Avoid Generally?",
+        "Options": [
+            "Weakness",
+            "Isolation",
+            "Changes",
+            "Uncertainity"
+        ]
+    },
+    {
+        "id": 18,
+        "Question": "Generally, What do you value the most?",
+        "Options": [
+            "Results",
+            "Attention",
+            "Support",
+            "Procedure"
+        ]
+    },
+    {
+        "id": 19,
+        "Question": "How Do You Believe In Things?",
+        "Options": [
+            "By The Power Of Action",
+            "By The Person Who Tells It",
+            "By The Promise",
+            "By The Proof"
+        ]
+    },
+    {
+        "id": 20,
+        "Question": "When Do You Feel Most Pressured In A Situation?",
+        "Options": [
+            "Dictating",
+            "Attacking",
+            "Compromising",
+            "Evasive"
+        ]
+    },
+    {
+        "id": 21,
+        "Question": "What Do You Often Seek As A Person?",
+        "Options": [
+            "Control",
+            "Control",
+            "Time",
+            "Facts"
+        ]
+    },
+    {
+        "id": 22,
+        "Question": "What Is Your Greatest Fear?",
+        "Options": [
+            "Being Taken Advantage Of",
+            "Rejection",
+            "Loss Of Security ",
+            "Criticism"
+        ]
+    },
+    {
+        "id": 23,
+        "Question": "What Do You Value The Most When In A  Team?",
+        "Options": [
+            "Time",
+            "Creativity",
+            "Reconcile Conflicts",
+            "The Anchor Of Reality"
+        ]
+    },
+    {
+        "id": 24,
+        "Question": "What Would You Love To Have As As Your Ingredient Of Motivation?",
+        "Options": [
+            "New Challenges",
+            "A Friendly Environment",
+            "Safety And Security",
+            "Detailed Tasks"
+        ]
+    },
+    {
+        "id": 25,
+        "Question": "What Would You Like To Desire At The Highest?",
+        "Options": [
+            "Freedom From Others Rules",
+            "Social Esteem",
+            "Sincere Appreciation",
+            "Independence"
+        ]
+    },
+    {
+        "id": 26,
+        "Question": "What Should A Person Working With You Be Like??",
+        "Options": [
+            "Ignore Past Experiences",
+            "Allow Sociable Activities",
+            "Personable And Build Rapport",
+            "Pay Attemntion To Details"
+        ]
+    },
+    {
+        "id": 27,
+        "Question": "What Is Your Personal Growth Space?",
+        "Options": [
+            "Listening To Others Actively",
+            "Setting Small Goals",
+            "Accomplish Goals In Timely Manner",
+            "Move Quickly To Accomplish Team Goals"
+        ]
+    },
+    {
+        "id": 28,
+        "Question": "What Do You Think Is Your Positive Characteristic?",
+        "Options": [
+            "Changing Environments",
+            "Instinctive Communication",
+            "Positive Team Environment",
+            "Instinctive Organizers"
+        ]
+    },
+    {
+        "id": 29,
+        "Question": "Are You Afraid To Be A Centre Of Attraction?",
+        "Options": [
+            "Partially", 
+            "Never",
+            "Yes",
+            "A Big Yes"
+        ]
+    }
 ]
+
+
+
